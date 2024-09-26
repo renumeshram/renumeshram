@@ -39,7 +39,7 @@ I believe in constant self-improvement, working on building better habits, and s
 - Interested in contributing to open-source? Let’s connect!
 
 <br><b>🔗 Find Me Around the Web:<b><br>
-- <b>LinkedIn:</b><a href="https://www.linkedin.com/in/renu-meshram-9170961a7/"> Let's connect!</a>
+- <b>LinkedIn:</b><a href="https://www.linkedin.com/in/renu-meshram-9170961a7/" target = "blank"> Let's connect!</a>
 <!---Twitter: I share updates and tech learnings.
 Portfolio Website: Check out my personal projects.--->
 
