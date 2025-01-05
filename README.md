@@ -2,7 +2,7 @@
 
 <b>Welcome to my GitHub profile!</b>
 
-I'm an aspiring developer passionate about <b>JavaScript, APIs, and Web Development</b>. I'm an enthusiastic learner diving into the world of software development. Currently working on improving my skills in React.js, MongoDB, and Frontend-Backend integration.
+I'm an aspiring developer passionate about <b>JavaScript, APIs, and Web Development</b>. I'm an enthusiastic learner diving into the world of software development. Currently working on improving my skills in Express.js, MongoDB, and Backend Development.
 
 <b>🚀 What I'm currently working on:</b>
 
@@ -22,7 +22,7 @@ I'm an aspiring developer passionate about <b>JavaScript, APIs, and Web Developm
 
 - <b>Learning:</b> API Integrations, Closures, and Recursion
 
-<br><b>🌱 Goals for 2024:</b>
+<br><b>🌱 Goals for 2025:</b>
 
 - <b>Contribute to open-source projects.
 
